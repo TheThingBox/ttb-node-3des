@@ -1,0 +1,16 @@
+{
+  "name": "ttb-node-3des",
+  "version": "0.0.1",
+  "node-red": {
+      "nodes": {
+          "encrypt": "61-encrypt.js",
+		      "decrypt": "61-decrypt.js"
+      }
+  },
+  "keywords": [
+    "node-red",
+    "3des"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}
