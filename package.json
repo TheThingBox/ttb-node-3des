@@ -2,10 +2,10 @@
   "name": "ttb-node-3des",
   "version": "0.0.1",
   "node-red": {
-      "nodes": {
-          "encrypt": "61-encrypt.js",
-		      "decrypt": "61-decrypt.js"
-      }
+    "nodes": {
+      "encrypt-3des": "61-encrypt.js",
+      "decrypt-3des": "61-decrypt.js"
+    }
   },
   "keywords": [
     "node-red",
